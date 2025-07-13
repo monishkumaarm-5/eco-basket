@@ -5,13 +5,13 @@ import { getAuth } from 'firebase/auth';
 
 // 🔥 Firebase Configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyCGfUe9rHCEkfUreHGWLlK-U4t234DaRKA',
-  authDomain: 'eco-basket-57984.firebaseapp.com',
-  projectId: 'eco-basket-57984',
-  storageBucket: 'eco-basket-57984.firebasestorage.app',
-  messagingSenderId: '771227430175',
-  appId: '1:771227430175:web:ee68286c9922f6431cd42a',
-  measurementId: 'G-EVMSEDRPXK',
+    apiKey: "AIzaSyCMzRiK7BY6nCxkDmfDWuo-0umcwZPLZ6g",
+  authDomain: "eco-basket-c3fe1.firebaseapp.com",
+  projectId: "eco-basket-c3fe1",
+  storageBucket: "eco-basket-c3fe1.firebasestorage.app",
+  messagingSenderId: "920189761891",
+  appId: "1:920189761891:web:c62ea1d41630be59aabb56",
+  measurementId: "G-F9CGQ2MP81"
 };
 
 // 🌱 Initialize Firebase
